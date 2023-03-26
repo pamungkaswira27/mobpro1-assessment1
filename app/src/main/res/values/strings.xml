@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">kaltika</string>
+    <string name="app_name">Kaltika: Kalkulator Aritmatika</string>
+    <string name="sukuAwalHint">Suku Awal (a)</string>
+    <string name="bedaHint">Beda (b)</string>
+    <string name="sukuNHint">Suku ke-n (n)</string>
+    <string name="hasilHint">Hasil</string>
+    <string name="barisanButton">Hitung Barisan</string>
+    <string name="deretButton">Hitung Deret</string>
+    <string name="resetButton">Reset</string>
 </resources>
