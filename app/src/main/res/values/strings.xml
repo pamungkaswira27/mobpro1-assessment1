@@ -3,8 +3,13 @@
     <string name="sukuAwalHint">Suku Awal (a)</string>
     <string name="bedaHint">Beda (b)</string>
     <string name="sukuNHint">Suku ke-n (n)</string>
-    <string name="hasilHint">Hasil</string>
+    <string name="barisanAritmatika">Barisan Aritmatika : %1$.1f</string>
+    <string name="deretAritmatika">Deret Aritmatika : %1$.1f</string>
     <string name="barisanButton">Hitung Barisan</string>
     <string name="deretButton">Hitung Deret</string>
     <string name="resetButton">Reset</string>
+    <string name="sukuAwalInvalid">Suku Awal Tidak Boleh Kosong !</string>
+    <string name="bedaInvalid">Beda Tidak Boleh Kosong !</string>
+    <string name="sukuNInvalid">Suku ke-n Tidak Boleh Kosong !</string>
+    <string name="resetInvalid">Semua field sudah tereset !</string>
 </resources>
